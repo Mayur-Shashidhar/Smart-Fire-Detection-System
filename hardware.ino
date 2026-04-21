@@ -2,12 +2,12 @@
 #include <HTTPClient.h>
 #include <DHT.h>
 
-// ================== WIFI ==================
-const char* ssid = "Sam";
-const char* password = "9108495939";
-const char* serverURL = "http://10.235.184.5:3000/api/data";
 
-// ================== DHT ==================
+const char* ssid = "WiFi Name";
+const char* password = "WiFi Password";
+const char* serverURL = "Live URL";
+
+
 #define DHTPIN 4
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
