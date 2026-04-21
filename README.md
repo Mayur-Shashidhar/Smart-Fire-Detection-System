@@ -17,6 +17,29 @@ The system can operate in both:
 
 ---
 
+##  👤👤👤 Team Information
+
+**Member 1:** 
+- Name : Rhea Sushanth 
+- SRN : PES1UG24CS371
+
+**Member 2:** 
+- Name : S Mayur 
+- SRN : PES1UG24CS391 
+
+**Member 3:** 
+- Name : Samarth Kotian
+- SRN : PES1UG24CS406
+
+---
+
+## 📖 Course Information
+
+- Course Name : Microprocessor and Computer Architecture
+- Course Code : UE24CS251B
+
+---
+
 ## 🎯 Key Features
 
 * 🔥 Multi-sensor fire detection (Temperature + Gas)
